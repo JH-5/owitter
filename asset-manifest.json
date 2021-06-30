@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/owitter/static/css/main.5762621d.chunk.css",
-    "main.js": "/owitter/static/js/main.ff0c14dd.chunk.js",
-    "main.js.map": "/owitter/static/js/main.ff0c14dd.chunk.js.map",
+    "main.css": "/owitter/static/css/main.c98b0b54.chunk.css",
+    "main.js": "/owitter/static/js/main.9328fac0.chunk.js",
+    "main.js.map": "/owitter/static/js/main.9328fac0.chunk.js.map",
     "runtime-main.js": "/owitter/static/js/runtime-main.9b1ab75d.js",
     "runtime-main.js.map": "/owitter/static/js/runtime-main.9b1ab75d.js.map",
     "static/js/2.52601a6b.chunk.js": "/owitter/static/js/2.52601a6b.chunk.js",
     "static/js/2.52601a6b.chunk.js.map": "/owitter/static/js/2.52601a6b.chunk.js.map",
     "index.html": "/owitter/index.html",
-    "static/css/main.5762621d.chunk.css.map": "/owitter/static/css/main.5762621d.chunk.css.map",
+    "static/css/main.c98b0b54.chunk.css.map": "/owitter/static/css/main.c98b0b54.chunk.css.map",
     "static/js/2.52601a6b.chunk.js.LICENSE.txt": "/owitter/static/js/2.52601a6b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9b1ab75d.js",
     "static/js/2.52601a6b.chunk.js",
-    "static/css/main.5762621d.chunk.css",
-    "static/js/main.ff0c14dd.chunk.js"
+    "static/css/main.c98b0b54.chunk.css",
+    "static/js/main.9328fac0.chunk.js"
   ]
 }
